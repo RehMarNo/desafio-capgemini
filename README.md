@@ -21,11 +21,17 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 
 ## Instruções
 ### Recursos 
-    * **IntelliJ Community**
-    * **JDK 11**
-    * **Maven**
-    * **Dependências**
-      - **JUnit 5.8.2**
-      - **system-lambda**
+<ul>
+  <li>IntelliJ Community</li>
+  <li>JDK 11</li>
+  <li>Maven 3.8.1</li>
+  <li>
+    <ul>Dependências
+      <li>JUnit 5.8.2</li>
+      <li>system-lambda</li>
+    </ul>
+  </li>
+</ul>
+
 ### Para rodar
-Para conseguir rodar na sua máquina, basta clonar o repositório do projeto, importar em uma IDE e fazer o reload das denpendências no maven.
+Para conseguir rodar na sua máquina, basta clonar o repositório do projeto, importar em uma IDE e carregar as dependências no maven.
