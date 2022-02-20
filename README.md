@@ -25,8 +25,8 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
   <li>IntelliJ Community</li>
   <li>JDK 11</li>
   <li>Maven 3.8.1</li>
-  <li>
-    <ul>Dependências
+  <li>Dependências no Maven
+    <ul>
       <li>JUnit 5.8.2</li>
       <li>system-lambda</li>
     </ul>
